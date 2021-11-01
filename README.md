@@ -1,12 +1,12 @@
 # aiot-raspberry-pi-yolo
 
-### Course Description: AIOT 邊緣運算工作坊 --- 機器學習模型實戰布署，手把手體驗邊緣運算的威力
+### AIOT 邊緣運算工作坊 --- 機器學習模型實戰布署，手把手體驗邊緣運算的威力
 
 - [AIOT 邊緣運算工作坊 - Accupass](https://www.accupass.com/event/2104260655422122073009)
 
 - [AIOT 邊緣運算工作坊 - Cupoy](https://www.cupoy.com/collection/00000179FF737775000000016375706F795F72656C656173654355?layoutType=content)
 
-### Relevent Resources
+### References
 
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/)
 
