@@ -1,6 +1,6 @@
 # aiot-raspberry-pi-yolo
 
-### Course: 【 AIOT 邊緣運算工作坊 】 機器學習模型實戰布署，手把手體驗邊緣運算的威力
+### Course Description: AIOT 邊緣運算工作坊 --- 機器學習模型實戰布署，手把手體驗邊緣運算的威力
 
 - [AIOT 邊緣運算工作坊 - Accupass](https://www.accupass.com/event/2104260655422122073009)
 
@@ -28,10 +28,10 @@
 
 ### Keywords
 
-realVNC, balenaEtcher, raspi-config, v4l2-ctl --list-formats-ext -d /dev/video0
-fswebcam -r 640x360 -S 10 image.jpg, YOLO (You Only Look Once), NVIDIA® Jetson Nano
+realVNC, balenaEtcher, raspi-config, `v4l2-ctl --list-formats-ext -d /dev/video0
+fswebcam -r 640x360 -S 10 image.jpg`, YOLO (You Only Look Once), NVIDIA® Jetson Nano
 
-## Screenshots
+### Screenshots
 
 ![pi-lab-1](/screenshots/pi-lab-10302021-1.PNG)
 ![pi-lab-2](/screenshots/pi-lab-10302021-2.PNG)
