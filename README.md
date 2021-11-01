@@ -1,12 +1,12 @@
 # aiot-raspberry-pi-yolo
 
-## Course: 【 AIOT 邊緣運算工作坊 】 機器學習模型實戰布署，手把手體驗邊緣運算的威力
+### Course: 【 AIOT 邊緣運算工作坊 】 機器學習模型實戰布署，手把手體驗邊緣運算的威力
 
 - [AIOT 邊緣運算工作坊 - Accupass](https://www.accupass.com/event/2104260655422122073009)
 
 - [AIOT 邊緣運算工作坊 - Cupoy](https://www.cupoy.com/collection/00000179FF737775000000016375706F795F72656C656173654355?layoutType=content)
 
-## Relevent Resources
+### Relevent Resources
 
 - [Advanced IP Scanner](https://www.advanced-ip-scanner.com/)
 
@@ -26,9 +26,9 @@
 
 - [OpenVINO](https://github.com/openvinotoolkit/openvino)
 
-## Keywords
+### Keywords
 
-**realVNC**, **balenaEtcher**, **raspi-config**, **v4l2-ctl --list-formats-ext -d /dev/video0
-fswebcam -r 640x360 -S 10 image.jpg**, **YOLO (You Only Look Once)**, 
+realVNC, balenaEtcher, raspi-config, v4l2-ctl --list-formats-ext -d /dev/video0
+fswebcam -r 640x360 -S 10 image.jpg, YOLO (You Only Look Once), NVIDIA® Jetson Nano
 
 ## Screenshots
