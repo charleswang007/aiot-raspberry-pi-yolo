@@ -32,3 +32,16 @@ realVNC, balenaEtcher, raspi-config, v4l2-ctl --list-formats-ext -d /dev/video0
 fswebcam -r 640x360 -S 10 image.jpg, YOLO (You Only Look Once), NVIDIA® Jetson Nano
 
 ## Screenshots
+
+![pi-lab-1](/screenshots/pi-lab-10302021-1)
+![pi-lab-2](/screenshots/pi-lab-10302021-2)
+![pi-lab-3](/screenshots/pi-lab-10302021-3)
+![pi-lab-4](/screenshots/pi-lab-10302021-4)
+![pi-lab-5](/screenshots/pi-lab-10302021-5)
+![pi-lab-6](/screenshots/pi-lab-10302021-6)
+![pi-lab-7](/screenshots/pi-lab-10302021-7)
+![pi-lab-8](/screenshots/pi-lab-10302021-8)
+![pi-lab-9](/screenshots/pi-lab-10302021-9)
+![pi-lab-10](/screenshots/pi-lab-10302021-10)
+![pi-lab-11](/screenshots/pi-lab-10302021-11)
+![pi-lab-12](/screenshots/pi-lab-10302021-12)
